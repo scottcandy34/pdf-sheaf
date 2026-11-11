@@ -16,7 +16,7 @@ export const Route = createRootRoute({
         content:
           "Combine PDFs, rearrange or delete pages, add pictures, and download one file. Everything stays in your browser.",
       },
-      { name: "theme-color", content: "#f4efe6" },
+      { name: "theme-color", content: "#eceff3" },
     ],
     links: [
       { rel: "icon", type: "image/svg+xml", href: "/favicon.svg" },
